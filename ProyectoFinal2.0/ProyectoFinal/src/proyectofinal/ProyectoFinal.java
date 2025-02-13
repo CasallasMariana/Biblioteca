@@ -4,6 +4,8 @@
  */
 package proyectofinal;
 
+import proyectofinal.front.Login;
+
 /**
  *
  * @author maria
